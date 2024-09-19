@@ -95,7 +95,7 @@ export default function AppLayout() {
             <MenuIcon />
           </IconButton>
           <Typography variant="h6" noWrap component="div">
-            Responsive drawer
+            Household App
           </Typography>
         </Toolbar>
       </AppBar>
